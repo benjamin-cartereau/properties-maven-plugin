@@ -23,7 +23,6 @@ import static org.hamcrest.CoreMatchers.*;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.junit.Assert.*;
 import org.junit.Test;
-import org.apache.maven.plugin.MojoFailureException;
 import java.util.Properties;
 
 /**
